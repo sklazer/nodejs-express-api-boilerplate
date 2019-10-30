@@ -1,5 +1,5 @@
-const express = require('express');
-const routes = require('../routes/routes');
+const express  = require('express');
+const routes   = require('../routes/routes');
 const passport = require('passport');
 
 module.exports = function (app) {
